@@ -63,11 +63,4 @@ const styles = StyleSheet.create({
   title: { flex: 1, backgroundColor: "#ffff" },
   row: { height: 28 },
   text: { textAlign: "center" },
-    height: 35,
-    justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: "#000000",
-    borderRadius: 150,
-    margin: 20,
-  },
 });
